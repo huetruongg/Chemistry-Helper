@@ -1,1 +1,1 @@
-# ICS4UR-Software-Development-Project
+# Student Organizer
