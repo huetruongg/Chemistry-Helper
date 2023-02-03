@@ -13,4 +13,5 @@ How To Use:
   - Click the 'Clear All' button to clear all the elements from the list
 
 - Electron Configuration Calculator
+  - Click on 'Electron Configuration Calculator' in main menu
   - Click on an element to display its electron configuration
