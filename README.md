@@ -1,1 +1,1 @@
-# Student Organizer
+# Chemistry Helper
